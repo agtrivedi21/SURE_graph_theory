@@ -1,2 +1,2 @@
-[fpd,H,C] = graph_domination(3)
+[fpd,H,C,adj] = graph_domination(3)
 
